@@ -4,7 +4,7 @@ Aplicație web care permite explorarea algoritmilor de căutare a drumului optim
 
 ## 🔗 Demo live
 
-Aplicația poate fi vizitată la linkul acesta: [https://lssply.github.io/algoritmi-matrice/](https://lssply.github.io/algoritmi-matrice/)
+Aplicația poate fi vizitată la linkul acesta: [https://alessio-antochi.github.io/algoritmi-matrice/](https://alessio-antochi.github.io/algoritmi-matrice/)
 
 ---
 
