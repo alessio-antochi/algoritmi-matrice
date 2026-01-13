@@ -106,6 +106,6 @@ Acest proiect este realizat pentru scop educațional și poate fi extins sau mod
 
 ---
 
-## 🙌 Autor
+## Autor
 
 **Antochi Alessio Roberto** – GitHub: [https://github.com/alessio-antochi](https://github.com/aliessio-antochi)
