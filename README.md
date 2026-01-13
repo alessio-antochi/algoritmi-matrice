@@ -1,14 +1,14 @@
-# 🔍 Algoritmi pe Matrice – Vizualizator Interactiv
+# Algoritmi pe Matrice – Vizualizator Interactiv
 
 Aplicație web care permite explorarea algoritmilor de căutare a drumului optim într-o matrice, printr-o interfață vizuală intuitivă. Realizat cu HTML, CSS și JavaScript.
 
-## 🔗 Demo live
+## Demo live
 
 Aplicația poate fi vizitată la linkul acesta: [https://alessio-antochi.github.io/algoritmi-matrice/](https://alessio-antochi.github.io/algoritmi-matrice/)
 
 ---
 
-## 🚀 Funcționalități principale
+## Funcționalități principale
 
 ### 🔹 Selectarea punctelor de start și finish
 
@@ -51,12 +51,12 @@ Aplicația poate fi vizitată la linkul acesta: [https://alessio-antochi.github.
 
 ---
 
-## 🎞️ Animații și logică asincronă
+## Animații și logică asincronă
 
 -   Se folosește `async/await` împreună cu o funcție `sleep(ms)` pentru a crea efectul de animare.
 -   Permite observarea pas cu pas a execuției algoritmilor.
 
-## 🧭 Reconstrucția drumului
+## Reconstrucția drumului
 
 -   Toți algoritmii utilizează un vector de **părinți** (tati) pentru fiecare celulă:
     ```js
@@ -64,7 +64,7 @@ Aplicația poate fi vizitată la linkul acesta: [https://alessio-antochi.github.
     ```
 -   Drumul optim este reconstruit de la finish spre start folosind aceste referințe.
 
-## 📊 Statistici afișate
+## Statistici afișate
 
 După execuția unui algoritm, este generat un div care conține:
 
@@ -73,7 +73,7 @@ După execuția unui algoritm, este generat un div care conține:
 
 ---
 
-## 📁 Structura proiectului
+## Structura proiectului
 
 ```
 .
@@ -100,7 +100,7 @@ După execuția unui algoritm, este generat un div care conține:
 │   └── prism.css
 ```
 
-## 📜 Licență
+## Licență
 
 Acest proiect este realizat pentru scop educațional și poate fi extins sau modificat liber.
 
@@ -108,4 +108,4 @@ Acest proiect este realizat pentru scop educațional și poate fi extins sau mod
 
 ## 🙌 Autor
 
-**Antochi Alessio Roberto** – GitHub: [https://github.com/lssply](https://github.com/aliessio-antochi)
+**Antochi Alessio Roberto** – GitHub: [https://github.com/alessio-antochi](https://github.com/aliessio-antochi)
