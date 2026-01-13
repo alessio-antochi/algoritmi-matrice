@@ -108,4 +108,4 @@ Acest proiect este realizat pentru scop educațional și poate fi extins sau mod
 
 ## 🙌 Autor
 
-**Antochi Alessio Roberto** – GitHub: [https://github.com/lssply](https://github.com/lssply)
+**Antochi Alessio Roberto** – GitHub: [https://github.com/lssply](https://github.com/aliessio-antochi)
